@@ -1,0 +1,204 @@
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\appsettings.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.exe
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.deps.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.runtimeconfig.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.pdb
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.csproj.AssemblyReference.cache
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.AssemblyInfoInputs.cache
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.AssemblyInfo.cs
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebAPI.props
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebAPI.props
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebAPI.props
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\scopedcss\bundle\FirstWebAPI.styles.css
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWeb.CD12482B.Up2Date
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\refint\FirstWebAPI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.pdb
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.genruntimeconfig.cache
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\ref\FirstWebAPI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\appsettings.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.exe
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.deps.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.runtimeconfig.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.pdb
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.csproj.AssemblyReference.cache
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.AssemblyInfoInputs.cache
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.AssemblyInfo.cs
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.csproj.CoreCompileInputs.cache
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebAPI.props
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebAPI.props
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebAPI.props
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\scopedcss\bundle\FirstWebAPI.styles.css
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWeb.CD12482B.Up2Date
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\refint\FirstWebAPI.dll
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.pdb
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.genruntimeconfig.cache
+D:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\ref\FirstWebAPI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\appsettings.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.exe
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.deps.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.runtimeconfig.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\FirstWebAPI.pdb
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Humanizer.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.csproj.AssemblyReference.cache
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.AssemblyInfoInputs.cache
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.AssemblyInfo.cs
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.csproj.CoreCompileInputs.cache
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebAPI.props
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebAPI.props
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebAPI.props
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\scopedcss\bundle\FirstWebAPI.styles.css
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWeb.CD12482B.Up2Date
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\refint\FirstWebAPI.dll
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.pdb
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\FirstWebAPI.genruntimeconfig.cache
+G:\.Net\ASP.Net Core API\FirstWebAPI\FirstWebAPI\obj\Debug\net6.0\ref\FirstWebAPI.dll
